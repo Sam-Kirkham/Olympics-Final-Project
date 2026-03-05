@@ -17,3 +17,15 @@ Here is another test.
 ```{r}
 # Test comment
 ```
+
+```{r}
+# Read in the All olympic mdalists data
+library(tidyverse)
+athletes <- vroom::vroom('all_athletes.csv')
+```
+
+```{r}
+# Selecting Columns from athletes
+athletes <- athletes %>%
+  select(-c(id, height, weight, team, city))
+```
