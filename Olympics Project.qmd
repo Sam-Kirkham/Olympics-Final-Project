@@ -11,3 +11,9 @@ HERE IS SOME STUFF
 ```{r}
 # read in the data here
 ```
+
+Here is another test.
+
+```{r}
+# Test comment
+```
