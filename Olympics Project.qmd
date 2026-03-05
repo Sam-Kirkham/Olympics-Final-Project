@@ -4,19 +4,7 @@ format: pdf
 editor: visual
 ---
 
-### Wrangling
-
-HERE IS SOME STUFF
-
-```{r}
-# read in the data here
-```
-
-Here is another test.
-
-```{r}
-# Test comment
-```
+### Data Wrangling:
 
 ```{r}
 # Read in the All olympic mdalists data
@@ -25,7 +13,13 @@ athletes <- vroom::vroom('all_athletes.csv')
 ```
 
 ```{r}
-# Selecting Columns from athletes
+# Selecting Columns from athletes and making factors
 athletes <- athletes %>%
   select(-c(id, height, weight, team, city))
+
+athletes$sex <- as.factor(athletes$sex)
+athletes$season <- as.factor(athletes$season)
+
+athletes$medal[is.na(athletes$medal)] <- "None"
+athletes$medal <- as.factor(athletes$medal)
 ```
