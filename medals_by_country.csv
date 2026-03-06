@@ -1,0 +1,161 @@
+Country,NOC,Gold,Silver,Bronze,Total
+United States,USA,1236,1018,891,3145
+Soviet Union,URS,473,376,355,1204
+Germany,GER,372,393,377,1142
+People's Republic of China,CHN,330,262,227,819
+Great Britain,GBR,321,351,362,1034
+France,FRA,297,333,368,998
+Italy,ITA,286,257,300,843
+Norway,NOR,229,200,188,617
+Sweden,SWE,226,238,249,713
+Japan,JPN,211,198,235,644
+Russian Federation,RUS,193,167,187,547
+East Germany,GDR,192,165,162,519
+Hungary,HUN,190,165,189,544
+Australia,AUS,189,198,232,619
+Netherlands,NED,176,169,185,530
+Canada,CAN,161,197,241,599
+Finland,FIN,149,152,190,491
+Republic of Korea,KOR,145,134,130,409
+Switzerland,SUI,126,142,144,412
+Austria,AUT,100,134,142,376
+Romania,ROU,93,101,124,318
+Cuba,CUB,86,70,88,244
+Poland,POL,83,105,155,343
+West Germany,FRG,67,82,94,243
+New Zealand,NZL,65,44,57,166
+Bulgaria,BUL,58,91,90,239
+Spain,ESP,55,77,63,195
+Unified Team,EUN,54,44,37,135
+Belgium,BEL,51,59,75,185
+Czechoslovakia,TCH,51,58,62,171
+Denmark,DEN,50,87,88,225
+Brazil,BRA,41,49,81,171
+Ukraine,UKR,41,43,76,160
+TÃ¼rkiye,TUR,41,29,41,111
+Kenya,KEN,39,44,41,124
+Greece,GRE,37,46,47,130
+Czechia,CZE,34,35,42,111
+South Africa,RSA,28,37,32,97
+ROC,ROC,27,46,47,120
+Jamaica,JAM,27,39,28,94
+Islamic Republic of Iran,IRI,27,29,32,88
+Yugoslavia,YUG,26,32,29,87
+Ethiopia,ETH,24,16,22,62
+Argentina,ARG,22,27,31,80
+Belarus,BLR,21,37,47,105
+Croatia,CRO,20,21,18,59
+Uzbekistan,UZB,19,8,23,50
+Kazakhstan,KAZ,17,27,43,87
+Democratic People's Republic of Korea,PRK,16,19,28,63
+Slovenia,SLO,16,19,24,59
+Ireland,IRL,15,11,19,45
+Slovakia,SVK,14,19,10,43
+Estonia,EST,14,12,19,45
+Mexico,MEX,13,27,37,77
+Georgia,GEO,13,16,19,48
+Thailand,THA,11,11,19,41
+Indonesia,INA,10,14,16,40
+India,IND,10,10,21,41
+Azerbaijan,AZE,9,16,31,56
+Chinese Taipei,TPE,9,11,22,42
+Egypt,EGY,9,11,19,39
+Serbia,SRB,9,8,12,29
+Morocco,MAR,8,5,13,26
+The Bahamas,BAH,8,2,6,16
+Algeria,ALG,7,4,9,20
+Portugal,POR,6,11,15,32
+Lithuania,LTU,6,9,15,30
+Tunisia,TUN,6,4,8,18
+Colombia,COL,5,16,17,38
+Latvia,LAT,5,15,13,33
+Uganda,UGA,5,5,3,13
+Israel,ISR,4,6,10,20
+Dominican Republic,DOM,4,5,6,15
+Ecuador,ECU,4,4,2,10
+"Hong Kong, China",HKG,4,3,6,13
+Pakistan,PAK,4,3,4,11
+Bahrain,BRN,4,3,1,8
+Mixed team,MIX,4,2,4,10
+Nigeria,NGR,3,11,13,27
+Chile,CHI,3,8,4,15
+Venezuela,VEN,3,7,9,19
+Trinidad and Tobago,TTO,3,5,11,19
+Philippines,PHI,3,5,10,18
+Australasia,ANZ,3,4,5,12
+Zimbabwe,ZIM,3,4,1,8
+Luxembourg,LUX,3,4,0,7
+Cameroon,CMR,3,1,2,6
+Kosovo,KOS,3,1,1,5
+Mongolia,MGL,2,12,17,31
+Armenia,ARM,2,11,9,22
+Serbia and Montenegro,SCG,2,4,3,9
+Puerto Rico,PUR,2,2,8,12
+Liechtenstein,LIE,2,2,6,10
+Uruguay,URU,2,2,6,10
+Qatar,QAT,2,2,5,9
+Fiji,FIJ,2,1,1,4
+Individual Neutral Athletes,AIN,1,4,1,6
+Peru,PER,1,3,1,5
+Vietnam,VIE,1,3,1,5
+Singapore,SGP,1,2,3,6
+Botswana,BOT,1,2,1,4
+Jordan,JOR,1,2,1,4
+Tajikistan,TJK,1,1,5,7
+CÃ´te d'Ivoire,CIV,1,1,3,5
+Grenada,GRN,1,1,3,5
+Independent Olympic Athletes,IOA,1,1,3,5
+Costa Rica,CRC,1,1,2,4
+Panama,PAN,1,1,2,4
+Syrian Arab Republic,SYR,1,1,2,4
+Guatemala,GUA,1,1,1,3
+Burundi,BDI,1,1,0,2
+Saint Lucia,LCA,1,1,0,2
+Bermuda,BER,1,0,1,2
+Mozambique,MOZ,1,0,1,2
+Suriname,SUR,1,0,1,2
+United Arab Emirates,UAE,1,0,1,2
+Dominica,DMA,1,0,0,1
+Malaysia,MAS,0,8,7,15
+Kyrgyzstan,KGZ,0,5,8,13
+Namibia,NAM,0,5,0,5
+Republic of Moldova,MDA,0,3,7,10
+Iceland,ISL,0,2,2,4
+Kingdom of Saudi Arabia,KSA,0,2,2,4
+Lebanon,LBN,0,2,2,4
+Cyprus,CYP,0,2,0,2
+Sri Lanka,SRI,0,2,0,2
+United Republic of Tanzania,TAN,0,2,0,2
+Ghana,GHA,0,1,4,5
+Bohemia,BOH,0,1,3,4
+San Marino,SMR,0,1,2,3
+Zambia,ZAM,0,1,2,3
+Haiti,HAI,0,1,1,2
+Niger,NIG,0,1,1,2
+North Macedonia,MKD,0,1,1,2
+United Arab Republic,UAR,0,1,1,2
+Gabon,GAB,0,1,0,1
+Montenegro,MNE,0,1,0,1
+Netherlands Antilles,AHO,0,1,0,1
+Paraguay,PAR,0,1,0,1
+Samoa,SAM,0,1,0,1
+Senegal,SEN,0,1,0,1
+Sudan,SUD,0,1,0,1
+Tonga,TGA,0,1,0,1
+Turkmenistan,TKM,0,1,0,1
+United States Virgin Islands,ISV,0,1,0,1
+Kuwait,KUW,0,0,3,3
+Afghanistan,AFG,0,0,2,2
+Albania,ALB,0,0,2,2
+West Indies Federation,WIF,0,0,2,2
+Barbados,BAR,0,0,1,1
+Burkina Faso,BUR,0,0,1,1
+Cabo Verde,CPV,0,0,1,1
+Djibouti,DJI,0,0,1,1
+Eritrea,ERI,0,0,1,1
+Guyana,GUY,0,0,1,1
+Iraq,IRQ,0,0,1,1
+Mauritius,MRI,0,0,1,1
+Monaco,MON,0,0,1,1
+Togo,TOG,0,0,1,1
+Ãquipe Olympique des RÃ©fugies,EOR,0,0,1,1

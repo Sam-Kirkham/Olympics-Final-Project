@@ -4,6 +4,10 @@ format: pdf
 editor: visual
 ---
 
+```{r}
+library(rvest)
+```
+
 ### Data Wrangling:
 
 ```{r}
@@ -22,4 +26,15 @@ athletes$season <- as.factor(athletes$season)
 
 athletes$medal[is.na(athletes$medal)] <- "None"
 athletes$medal <- as.factor(athletes$medal)
+```
+
+### Scraping
+
+```{r}
+url <- "https://www.olympedia.org/statistics/medal/country"
+page <- read_html(url)
+tables <- page |> html_elements("table")
+df_list <- tables |> html_table()
+medals_by_country <- df_list[[1]]
+names(medals_by_country)[1:2] <- c("Country", "NOC")
 ```
